@@ -1,0 +1,14 @@
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\ArraysChallenge\bin\Debug\net9.0\ArraysChallenge.exe
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\ArraysChallenge\bin\Debug\net9.0\ArraysChallenge.deps.json
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\ArraysChallenge\bin\Debug\net9.0\ArraysChallenge.runtimeconfig.json
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\ArraysChallenge\bin\Debug\net9.0\ArraysChallenge.dll
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\ArraysChallenge\bin\Debug\net9.0\ArraysChallenge.pdb
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\ArraysChallenge\obj\Debug\net9.0\ArraysChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\ArraysChallenge\obj\Debug\net9.0\ArraysChallenge.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\ArraysChallenge\obj\Debug\net9.0\ArraysChallenge.AssemblyInfo.cs
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\ArraysChallenge\obj\Debug\net9.0\ArraysChallenge.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\ArraysChallenge\obj\Debug\net9.0\ArraysChallenge.dll
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\ArraysChallenge\obj\Debug\net9.0\refint\ArraysChallenge.dll
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\ArraysChallenge\obj\Debug\net9.0\ArraysChallenge.pdb
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\ArraysChallenge\obj\Debug\net9.0\ArraysChallenge.genruntimeconfig.cache
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\ArraysChallenge\obj\Debug\net9.0\ref\ArraysChallenge.dll
