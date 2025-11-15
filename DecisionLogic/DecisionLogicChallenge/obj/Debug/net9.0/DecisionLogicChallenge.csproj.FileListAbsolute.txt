@@ -1,0 +1,14 @@
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\CsharpProjects\DecisionLogicChallenge\bin\Debug\net9.0\DecisionLogicChallenge.exe
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\CsharpProjects\DecisionLogicChallenge\bin\Debug\net9.0\DecisionLogicChallenge.deps.json
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\CsharpProjects\DecisionLogicChallenge\bin\Debug\net9.0\DecisionLogicChallenge.runtimeconfig.json
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\CsharpProjects\DecisionLogicChallenge\bin\Debug\net9.0\DecisionLogicChallenge.dll
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\CsharpProjects\DecisionLogicChallenge\bin\Debug\net9.0\DecisionLogicChallenge.pdb
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\CsharpProjects\DecisionLogicChallenge\obj\Debug\net9.0\DecisionLogicChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\CsharpProjects\DecisionLogicChallenge\obj\Debug\net9.0\DecisionLogicChallenge.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\CsharpProjects\DecisionLogicChallenge\obj\Debug\net9.0\DecisionLogicChallenge.AssemblyInfo.cs
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\CsharpProjects\DecisionLogicChallenge\obj\Debug\net9.0\DecisionLogicChallenge.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\CsharpProjects\DecisionLogicChallenge\obj\Debug\net9.0\DecisionLogicChallenge.dll
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\CsharpProjects\DecisionLogicChallenge\obj\Debug\net9.0\refint\DecisionLogicChallenge.dll
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\CsharpProjects\DecisionLogicChallenge\obj\Debug\net9.0\DecisionLogicChallenge.pdb
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\CsharpProjects\DecisionLogicChallenge\obj\Debug\net9.0\DecisionLogicChallenge.genruntimeconfig.cache
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\CsharpProjects\DecisionLogicChallenge\obj\Debug\net9.0\ref\DecisionLogicChallenge.dll

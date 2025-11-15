@@ -1,0 +1,14 @@
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\CsharpProjects\DecisionLogic\bin\Debug\net9.0\DecisionLogic.exe
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\CsharpProjects\DecisionLogic\bin\Debug\net9.0\DecisionLogic.deps.json
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\CsharpProjects\DecisionLogic\bin\Debug\net9.0\DecisionLogic.runtimeconfig.json
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\CsharpProjects\DecisionLogic\bin\Debug\net9.0\DecisionLogic.dll
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\CsharpProjects\DecisionLogic\bin\Debug\net9.0\DecisionLogic.pdb
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\CsharpProjects\DecisionLogic\obj\Debug\net9.0\DecisionLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\CsharpProjects\DecisionLogic\obj\Debug\net9.0\DecisionLogic.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\CsharpProjects\DecisionLogic\obj\Debug\net9.0\DecisionLogic.AssemblyInfo.cs
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\CsharpProjects\DecisionLogic\obj\Debug\net9.0\DecisionLogic.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\CsharpProjects\DecisionLogic\obj\Debug\net9.0\DecisionLogic.dll
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\CsharpProjects\DecisionLogic\obj\Debug\net9.0\refint\DecisionLogic.dll
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\CsharpProjects\DecisionLogic\obj\Debug\net9.0\DecisionLogic.pdb
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\CsharpProjects\DecisionLogic\obj\Debug\net9.0\DecisionLogic.genruntimeconfig.cache
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\CsharpProjects\DecisionLogic\obj\Debug\net9.0\ref\DecisionLogic.dll
