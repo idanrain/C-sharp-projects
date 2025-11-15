@@ -1,0 +1,14 @@
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\ReadableCode\Challenge\bin\Debug\net9.0\Challenge.exe
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\ReadableCode\Challenge\bin\Debug\net9.0\Challenge.deps.json
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\ReadableCode\Challenge\bin\Debug\net9.0\Challenge.runtimeconfig.json
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\ReadableCode\Challenge\bin\Debug\net9.0\Challenge.dll
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\ReadableCode\Challenge\bin\Debug\net9.0\Challenge.pdb
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\ReadableCode\Challenge\obj\Debug\net9.0\Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\ReadableCode\Challenge\obj\Debug\net9.0\Challenge.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\ReadableCode\Challenge\obj\Debug\net9.0\Challenge.AssemblyInfo.cs
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\ReadableCode\Challenge\obj\Debug\net9.0\Challenge.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\ReadableCode\Challenge\obj\Debug\net9.0\Challenge.dll
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\ReadableCode\Challenge\obj\Debug\net9.0\refint\Challenge.dll
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\ReadableCode\Challenge\obj\Debug\net9.0\Challenge.pdb
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\ReadableCode\Challenge\obj\Debug\net9.0\Challenge.genruntimeconfig.cache
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\ReadableCode\Challenge\obj\Debug\net9.0\ref\Challenge.dll

@@ -1,0 +1,14 @@
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\ReadableCode\bin\Debug\net9.0\ReadableCode.exe
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\ReadableCode\bin\Debug\net9.0\ReadableCode.deps.json
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\ReadableCode\bin\Debug\net9.0\ReadableCode.runtimeconfig.json
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\ReadableCode\bin\Debug\net9.0\ReadableCode.dll
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\ReadableCode\bin\Debug\net9.0\ReadableCode.pdb
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\ReadableCode\obj\Debug\net9.0\ReadableCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\ReadableCode\obj\Debug\net9.0\ReadableCode.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\ReadableCode\obj\Debug\net9.0\ReadableCode.AssemblyInfo.cs
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\ReadableCode\obj\Debug\net9.0\ReadableCode.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\ReadableCode\obj\Debug\net9.0\ReadableCode.dll
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\ReadableCode\obj\Debug\net9.0\refint\ReadableCode.dll
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\ReadableCode\obj\Debug\net9.0\ReadableCode.pdb
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\ReadableCode\obj\Debug\net9.0\ReadableCode.genruntimeconfig.cache
+C:\Users\david\OneDrive\Documents\coding progress\CsharpProjects\ReadableCode\obj\Debug\net9.0\ref\ReadableCode.dll
